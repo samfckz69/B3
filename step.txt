@@ -1,0 +1,19 @@
+        # url = "thebraincandypodcast.com"
+        # url = "www.weddingtropics.com"
+        # url = "www.naturaw.co.uk"
+        # url = "christianapostles.com"
+        # url = "christianapostles.com"
+        # url = "ce4less.com"
+
+
+
+        # url = "digicel.net" 
+
+https://www.annavasily.com.au/my-account/add-payment-method/
+
+https://sensorex.com/my-account/add-payment-method/
+
+https://www.studynotesaba.com/my-account/add-payment-method/
+
+        {"status":200,"payload":{"status":"SUCCESS","error":{},"result":{"transactionId":"aybqwvzf","method":"CC","date":"10/24/2024 7:41:46 AM"}},"error":null,"redirectUrl":null}
+5457569546430852|08|25|554 - argument of type 'NoneType' is not iterable 🚫 - Taken 5.0s
